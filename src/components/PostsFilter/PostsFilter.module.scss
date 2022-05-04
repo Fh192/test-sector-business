@@ -1,0 +1,20 @@
+.filter {
+  display: flex;
+  align-items: center;
+  max-width: 631px;
+  width: 100%;
+  padding-right: 25px;
+  background: #5a5c66;
+
+  .input {
+    padding: 15px 25px;
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+
+    &::placeholder {
+      color: #b3b7bf;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.posts {
+  display: flex;
+  flex-direction: column;
+  max-width: 1077px;
+  width: 100%;
+  border-collapse: collapse;
+  transition: opacity 0.3s ease;
+}
+
+.fetching {
+  opacity: 0.5;
+}

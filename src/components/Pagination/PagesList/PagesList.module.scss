@@ -1,0 +1,17 @@
+.pages {
+  display: flex;
+  align-items: center;
+}
+
+.page {
+  button {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 7.5px;
+  }
+
+  &.active {
+    color: #7ebc3c;
+  }
+}

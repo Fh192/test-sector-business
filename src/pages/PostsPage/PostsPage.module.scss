@@ -1,0 +1,11 @@
+.postsPage {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
