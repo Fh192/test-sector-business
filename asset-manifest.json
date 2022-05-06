@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-sector-business/static/css/main.3740cb58.css",
+    "main.js": "/test-sector-business/static/js/main.2468ff40.js",
+    "index.html": "/test-sector-business/index.html",
+    "static/media/search.svg": "/test-sector-business/static/media/search.42a69f6c4dc27bbf7c00efe96314acef.svg",
+    "static/media/arrow.svg": "/test-sector-business/static/media/arrow.4320ae5d44313dde36c3d34278b180ec.svg",
+    "main.3740cb58.css.map": "/test-sector-business/static/css/main.3740cb58.css.map",
+    "main.2468ff40.js.map": "/test-sector-business/static/js/main.2468ff40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3740cb58.css",
+    "static/js/main.2468ff40.js"
+  ]
+}
